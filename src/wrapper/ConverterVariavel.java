@@ -17,7 +17,7 @@ public class ConverterVariavel {
 	//Método responsável pelo casting da variavel 
 	public long conversao() {
 		num1 = getNum1();
-		long num2 = num1;
+		Integer num2 = num1;
 		
 		return num2;
 	}
